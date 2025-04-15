@@ -1,1 +1,1 @@
-# Python_Practice
+# django_todolist
